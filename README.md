@@ -1,4 +1,4 @@
-#👋 Salut! Mon nom est Zachary Chandonnet
+# 👋 Salut! Mon nom est Zachary Chandonnet
 
 ## Je suis un Ingénieur Logiciel passionné par le domaine du web et de l'informatique.
 
